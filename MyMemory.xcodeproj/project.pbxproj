@@ -21,6 +21,11 @@
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
+		F96913252E32518500046D93 /* Resources */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = Resources;
+			sourceTree = "<group>";
+		};
 		F9BF335A2E29F3B5009FA3E6 /* MyMemory */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
@@ -45,6 +50,7 @@
 		F9BF334F2E29F3B5009FA3E6 = {
 			isa = PBXGroup;
 			children = (
+				F96913252E32518500046D93 /* Resources */,
 				F9BF335A2E29F3B5009FA3E6 /* MyMemory */,
 				F9BF33592E29F3B5009FA3E6 /* Products */,
 			);
@@ -74,6 +80,7 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
+				F96913252E32518500046D93 /* Resources */,
 				F9BF335A2E29F3B5009FA3E6 /* MyMemory */,
 			);
 			name = MyMemory;
